@@ -1,3 +1,4 @@
+<img src="https://github.com/abhyudayhari/abhyudayhari/blob/master/github.gif" alt="Github Banner" width="100%"/>
 <h1 align="left">Hi there! 👋 I'm Abhyuday Hari Prasad</h1>
 
 ###
